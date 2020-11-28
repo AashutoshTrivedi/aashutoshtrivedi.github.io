@@ -1,0 +1,53 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 8
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: portfolio
+description: "A Data Scientist and buisness evangalist"
+keywords: "data science, machine learning, data analyst, buisness, consultant"
+url:
+baseurl: ""
+
+google_analytics: UA-52446115-1
+disqus_shortname: "aashutrivedi"
+disqus_site_shortname: "aashutrivedi"
+
+# Author settings
+author:
+  name: Aashutosh Trivedi
+  job: Data Scientist
+  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb: /images/author.jpg
+  email: aashu.iitjammu@gmail.com
+  url: https://aashutoshtrivedi.github.io/
+  github: https://github.com/AashutoshTrivedi
+  twitter: https://twitter.com/aashu_trivedi_
+  facebook: https://www.facebook.com/ashutosh.trivedi.503/
+  linkedin: https://www.linkedin.com/in/aashutosh-trivedi-a90514139/
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: projects
+    title: Projects
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
