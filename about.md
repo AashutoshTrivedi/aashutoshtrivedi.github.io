@@ -7,6 +7,7 @@ permalink: /about/
 <img align ="center" src = "/images/author.jpg">
 
 > ###*“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”*
+
 > *– Albert Einstein*
 
 Bonjour! Namaste! Hello!
