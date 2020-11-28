@@ -22,7 +22,7 @@ title: portfolio
 description: "A Data Scientist and buisness evangalist"
 keywords: "data science, machine learning, data analyst, buisness, consultant"
 url:
-baseurl: "aashutoshtrivedi.github.io/source"
+baseurl: "/aashutoshtrivedi.github.io/source"
 
 google_analytics: UA-52446115-1
 disqus_shortname: "aashutrivedi"
