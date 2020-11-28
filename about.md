@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About-me
 permalink: /about/
 ---
 <!-- ![alt text](images/author.jpg) -->
@@ -8,8 +8,10 @@ permalink: /about/
 
 > ### *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”*
 > *– Albert Einstein*
+---
 
 ## *hello*
+<br>
 I'm Aashutosh Trivedi, a data science and machine learning engineer.
 If I describe myself in one line - that would be - always eager to learn. I have always introduced myself as a lover of technology, a technophile, a presenter, a leader and an achiever.
 
