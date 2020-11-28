@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about-me/
+permalink: /about/
 ---
 <!-- ![alt text](images/author.jpg) -->
 <img align ="center" src = "/images/author.jpg">
