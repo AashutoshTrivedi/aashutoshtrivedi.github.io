@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 <!-- ![alt text](images/author.jpg) -->
-<img align ="center" src = "/images/author.jpg">
+<img align ="center" src = "/images/me.png">
 
 > ### *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”*
 > *– Albert Einstein*
 
-Bonjour! Namaste! Hello!
+## *hello*
 Myself Aashtosh Trivedi, a Mechanical engineering graduate form [IIT Jammu](iitjammu.ac.in).
+
+
 
 I had been the general secretary of students body, and been an integral part of the baja team. Apart from it I'm deeply passionate about the new technology and its impact on tranforming the society. I have a my interests in the field of machine learning and cloud based computing.
 
