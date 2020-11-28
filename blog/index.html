@@ -3,13 +3,11 @@ layout: pages
 pagination:
   enabled: true
 ---
-<h1> Hello world! 1<h1>
+
 <section class="post-list">
-  <h1> Hello world! 2<h1>
   {% for post in paginator.posts %}
     {% include article.html %}
   {% endfor %}
-  <h1> Hello world! 3<h1>
+
   {% include pagination.html %}
-  <h1> Hello world! 4<h1>
 </section>
