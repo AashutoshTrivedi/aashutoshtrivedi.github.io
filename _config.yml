@@ -11,7 +11,7 @@ pagination:
 
 comments: true
 
-source: source
+# source: source
 destination: _site
 sass:
   sass_dir: _sass
@@ -22,7 +22,7 @@ title: portfolio
 description: "A Data Scientist and buisness evangalist"
 keywords: "data science, machine learning, data analyst, buisness, consultant"
 url:
-baseurl: ""
+baseurl: "/aashutoshtrivedi.github.io"
 
 google_analytics: UA-52446115-1
 disqus_shortname: "aashutrivedi"
