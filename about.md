@@ -11,7 +11,7 @@ permalink: /about/
 ---
 
 ## *hello*
-<br>
+
 I'm Aashutosh Trivedi, a data science and machine learning engineer.
 If I describe myself in one line - that would be - always eager to learn. I have always introduced myself as a lover of technology, a technophile, a presenter, a leader and an achiever.
 
@@ -25,10 +25,7 @@ I had been the general secretary of students body, and been an integral part of 
 
 Apart from it I'm deeply passionate about the new technology and its impact on transforming the society. I have a my interests in the field of machine learning, data analytics and cloud based computing.
 
-Coming on the internships, I interrned with jugaad analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data analytics and Stock market prediction. You can read more about it [here](/projects/jugaad.md).
+Coming on the internships, I interrned with jugaad analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data analytics and Stock market prediction. You can read more about it [here](/projects/jugaad).
 
 
 Rest of the internships were in mechanical domain, so I'll skip those. I will write about them sometime later in a blog post, as it was something very technical and interesting.
-
-
-M
