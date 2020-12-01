@@ -5,7 +5,7 @@ permalink: /extra/
 ---
 
 
-oving on to the major projects and courses that I have done in field of cs.
+Moving on to the major projects and courses that I have done in field of cs.
 I took a computer vision course as an elective here in the college where I learned about different types of filters, morphological operations, feature extraction and detection techniques, homography matrices and 3d reconstruction. I am certified for ML by andrew ng on coursera, deep learning on coursera and data science with python. I also have through understand of cloud computing domains including AWS and GCP which I have explored in few of my projects.
 
 I also have an basic understanding of different architectural styles persay monolith architecture, the problems associated with it and microservices architecture. I have few projects that included the use of docker and kubernetes, basically it was a web based application, which I'll come a little later and then an understanding of the various domains in big data. In particular I have done Hadoop cluster setup and written a element counting algorithm in map reduce paradigm for thsi purpose.

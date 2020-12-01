@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "A wonderful serenity has taken possession of my entire soul"
-description: "I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-date: 2015-11-12 16:39:18
+title: "100-Days-of-DataScience"
+l: true
+link: "https://aashutoshtrivedi.github.io/100-Days-of-DataScience/"
+description: "This is the first data science blog of mine"
+date: 2020-11-30 16:39:18
 comments: true
-description: "A wonderful serenity has taken possession of my entire soul"
 keywords: "welcome, wonderful, jekyll, friend"
 category: welcome
 image: projects/ml.jpg
