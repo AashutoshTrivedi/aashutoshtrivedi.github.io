@@ -10,21 +10,24 @@ image: /project_images/fd.png
 
 ---
 
-Real time mask detection using ........soon will be updated .....................................
+Real time mask detection ..........soon will be updated .....................................
+...............................................................................
+
+To check the repo, click [here](https://github.com/AashutoshTrivedi/mask_detector) 
 ## Part 1
 
-<iframe width="720" height="500"
+<iframe
 src="">
 </iframe>
 
 ## Part 2
 
-<iframe width="420" height="375"
+<iframe
 src="">
 </iframe>
 
 ## Part 3
 
-<iframe width="420" height="375"
+<iframe
 src="">
 </iframe>
