@@ -12,16 +12,18 @@ layout: pages
       </em>
     </header>
 
+    <!-- {% if page.image %}
+      <figure class="post-thumbnail {% if page.image %}{% else %}no-image{% endif %}">
+        {% if page.k == true %}
+          <img src="{{ page.image }}" alt="{{ page.title }}">
+        {% else %}
+          <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}">
+        {% endif %}
+      </figure>
+    {% endif %} -->
+
+
     <div class="post-content">
-      {% if page.image %}
-        <figure class="post-thumbnail {% if page.image %}{% else %}no-image{% endif %}">
-          {% if page.k == true %}
-            <img src="{{ page.image }}" alt="{{ page.title }}">
-          {% else %}
-            <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}">
-          {% endif %}
-        </figure>
-      {% endif %}
       {{ content }}
     </div>
 
