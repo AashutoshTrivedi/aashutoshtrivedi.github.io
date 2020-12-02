@@ -35,8 +35,11 @@ disqus_site_shortname: "aashutrivedi"
 # Author settings
 author:
   name: Aashutosh Trivedi
-  job: Data Scientist
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  job: Associate Software Developer
+  bio: "A Data Science and Machine Learning enthusiast, obsessed with technology
+  and buisness strategy, always looking for the best project and good coffee.
+  Prior to Cognizant, completed graduation from IIT Jammu and developed
+  exceptional skills while serving as General Secretary of Student's Council IIT Jmu"
   thumb: /images/author.jpg
   email: aashu.iitjammu@gmail.com
   url: https://aashutoshtrivedi.github.io/

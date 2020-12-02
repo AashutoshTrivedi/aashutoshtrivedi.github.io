@@ -2,20 +2,23 @@
 layout: page
 title: About-me
 permalink: /about/
+
 ---
+
 <!-- ![alt text](images/author.jpg) -->
 
-
+---
 > ### *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”*
 > *– Albert Einstein*
----
 
-## *hello*
 
-I'm Aashutosh Trivedi, a data science and machine learning engineer.
+
+Hello I'm `Aashutosh Trivedi`, an associate software developer at Cognizant and a data science and machine learning enthusiast.
 If I describe myself in one line - that would be - always eager to learn. I have always introduced myself as a lover of technology, a technophile, a presenter, a leader and an achiever.
 
-As graduate in mechanical engineering from [IIT Jammu](iitjammu.ac.in), I was always inspired to grab each and every possible opportunity thrown at me by life. Had an opportunity to work with an amazing team to create a first all terrain vehicle.  The many hats worn from mechanical engineer to data science enthusiast continue to inspire and feed my curiosity.
+As a graduate in mechanical engineering from [IIT Jammu](iitjammu.ac.in), I was always inspired to grab each and every possible opportunity thrown at me by life. Had an opportunity to work with an amazing team to create a first all terrain vehicle, been fortunate enough to lead a team to draft first constitution of IIT jammu and likewise a lot more. The many hats worn by me from being a mechanical engineer by degree to software engineer and machine learning enthusiast continue to inspire and feed my curiosity.
+
+---
 
 ## *Journey*
 
@@ -29,3 +32,4 @@ Coming on the internships, I interrned with jugaad analytics which is an analyti
 
 
 Rest of the internships were in mechanical domain, so I'll skip those. I will write about them sometime later in a blog post, as it was something very technical and interesting.
+[Click to know more](/aashutoshtrivedi.github.io/extra/)
