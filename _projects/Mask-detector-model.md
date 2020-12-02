@@ -13,21 +13,18 @@ image: /project_images/fd.png
 Real time mask detection ..........soon will be updated .....................................
 ...............................................................................
 
-To check the repo, click [here](https://github.com/AashutoshTrivedi/mask_detector) 
+To check the repo, click [here](https://github.com/AashutoshTrivedi/mask_detectorme)
 ## Part 1
 
-<iframe
-src="">
-</iframe>
+<iframe src="https://player.vimeo.com/video/486407739" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/486407739">Mask-Detector-1</a> from <a href="https://vimeo.com/user128346394">Aashutosh Trivedi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Part 2
 
-<iframe
-src="">
-</iframe>
+<iframe src="https://player.vimeo.com/video/486407304" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/486407304">Mask-detector-2</a> from <a href="https://vimeo.com/user128346394">Aashutosh Trivedi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Part 3
 
-<iframe
-src="">
-</iframe>
+<iframe src="https://player.vimeo.com/video/486407491" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/486407491">Mask-detector-3</a> from <a href="https://vimeo.com/user128346394">Aashutosh Trivedi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
