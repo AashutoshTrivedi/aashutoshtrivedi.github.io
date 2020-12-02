@@ -22,13 +22,13 @@ As a graduate in mechanical engineering from [IIT Jammu](iitjammu.ac.in), I was 
 
 ## *Journey*
 
-Talking about my journey, it all starts back from my school time. I was always privileged to lead and work with some wonderful team. In class tenth, I was elected house captain of red house, playing an important role in the sports and annual cultural celebration.Adding to this experience, I was appointed the captain of NCC batch during year 2013. I wear many such eperiences that have sculptured my personality and made me who I'm today.
+Talking about my journey, it all starts back from my school time. I was always privileged to lead and work with some wonderful team. In class tenth, I was elected house captain of red house, playing an important role in the sports and annual cultural celebration.Adding to this experience, I was appointed the captain of NCC batch during year 2013. I wear many such experiences that have sculptured my personality and made me who I'm today.
 
 I had been the general secretary of students body, and been an integral part of the Baja team who are proud enough to be called a first third-gen IIT to take part in car design competition within it's second year of establishment.
 
 Apart from it I'm deeply passionate about the new technology and its impact on transforming the society. I have a my interests in the field of machine learning, data analytics and cloud based computing.
 
-Coming on the internships, I interrned with jugaad analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data analytics and Stock market prediction. You can read more about it [here](/aashutoshtrivedi.github.io/jugaad/).
+Coming on the internships, I interned with Jugaad Analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data Analytics and Stock market prediction. You can read more about it [here](/aashutoshtrivedi.github.io/jugaad/).
 
 
 Rest of the internships were in mechanical domain, so I'll skip those. I will write about them sometime later in a blog post, as it was something very technical and interesting.
