@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-26 13:46:52
+title:  "What is Jekyll?"
+date:   2020-12-02
 comments: true
 categories: jekyll update
 i: true
 image: https://jekyllrb.com/img/octojekyll.png
 k: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Jekyll is a static site generator that used liquid template language to convert markdown and html pages to static sites that are ready to be served.
+Github has build in support for Jekyll and so it can be really useful to generate and deploy static websites on GitHub as git pages.
+
+One more clarification that I want to make here is that static pages do include any front end technology like JavaScript, react, etc. Only thing is it does not interact with the user and do any dynamic thing which requires sending or receiving data once page is rendered.
 
 Jekyll also offers powerful support for code snippets:
 

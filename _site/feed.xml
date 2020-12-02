@@ -5,31 +5,16 @@
     <description>A Data Scientist and buisness evangalist</description>
     <link>http://localhost:4000/aashutoshtrivedi.github.io/</link>
     <atom:link href="http://localhost:4000/aashutoshtrivedi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2020 13:07:59 +0530</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 13:07:59 +0530</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2020 17:28:36 +0530</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 17:28:36 +0530</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
-        <title>Understanding Git and Github</title>
-        <description>&lt;p&gt;Git is a open source version control system. Wait! but what the heck is version control. Not going into very advanced aspects, version control simply means, having the full control on the version of your software file, which in-turn means that this is a type of software that contains all the previous build of our software.&lt;/p&gt;
+        <title>What is Jekyll?</title>
+        <description>&lt;p&gt;Jekyll is a static site generator that used liquid template language to convert markdown and html pages to static sites that are ready to be served.
+Github has build in support for Jekyll and so it can be really useful to generate and deploy static websites on GitHub as git pages.&lt;/p&gt;
 
-&lt;p&gt;Still difficult? Ok lets take an example why git is used and what makes it an integral part of the IT community. The typical software cycle involves a lot of steps like development, deployment, testing etc involving a large number of people working in collaboration.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</guid>
-        
-        
-        <category>git</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;One more clarification that I want to make here is that static pages do include any front end technology like JavaScript, react, etc. Only thing is it does not interact with the user and do any dynamic thing which requires sending or receiving data once page is rendered.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -43,14 +28,66 @@ print_hi('Tom')
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 26 Nov 2015 19:16:52 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2015/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2015/welcome-to-jekyll/</guid>
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding Git and Github</title>
+        <description>&lt;p&gt;Git is a open source version control system. Basically it’s a software where we can manage and build the different versions of our software. It is a distributed service that contains history, edits, updates of the files.  GitHub on the other hand is a repository hosting service which is like a server that contains all our files and has git software installed on it.
+&lt;!--
+Still difficult? Ok lets take an example why git is used and what makes it an integral part of the IT community. The typical software cycle involves a lot of steps like development, deployment, testing etc involving a large number of people working in collaboration. --&gt;&lt;/p&gt;
+
+&lt;p&gt;In this article we’ll dive into two methods to initiate and work on a project locally and how to connect it remotely to a repository hosting service like GitHub or bit-bucket.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The first method is by cloning an existing repo on github or any other hosting sote.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;  git clone https://examplerepo.org/something.git #creates a empty git repository in your local server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will create a copy of a repo on your local pc where you can start changing the files.
+Once we have done necessary changes and our files are ready we can add it back online using following commands.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;  git add . #adds all the files to the local index
+  git commit -m &quot;any comment here&quot;
+  git push origin master # to push the changes to the master branch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;The  second method is to intitialize an emtpy git repo and then create a link online to github repo.
+This can be done by&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;  git init # create an empty repo
+  git echo &quot;# hello world&quot; &amp;gt; readme.md # create a readme files
+  git add . # adds into local
+  git remote add origin https://examplerepo.org/something.git
+  git push --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will push all the files to the master branch of the repository hosted online.&lt;/p&gt;
+
+&lt;p&gt;We can create a branch and push the changes as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;  git checkout -b brache1 # created a branch from master
+  git remote add origin https://examplerepo.org/something.git
+  git push --set-upstream origin branch1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here are few links to understand this topic in further detail:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rogerdudler.github.io/git-guide/&quot;&gt;Roger Dudler’s guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;GitHub’s official guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</link>
+        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</guid>
+        
+        
+        <category>git</category>
         
       </item>
     

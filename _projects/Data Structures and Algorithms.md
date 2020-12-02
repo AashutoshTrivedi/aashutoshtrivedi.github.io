@@ -12,4 +12,5 @@ tags:
 - welcome
 ---
 
-hello this is blog website for data structures
+Data structures and algorithms are the most fundamental blocks of computer science.
+It is the pillar of computer science that enables us to write efficient and optimal computer programs. 
