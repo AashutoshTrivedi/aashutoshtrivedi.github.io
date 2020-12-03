@@ -12,7 +12,7 @@ tags:
 - welcome
 ---
 
-Hand written Digit Recognition. Will be updated soon.
+Hand written Digit Recognition using Neural network in Matlab. Will be updated soon.
 
 <!-- A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
 

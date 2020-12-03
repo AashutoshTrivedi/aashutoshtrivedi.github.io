@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real Time Mask Detector using Keras"
+title: "Mask Detector using Keras and python"
 
 description: ""
 comments: true
@@ -10,8 +10,10 @@ image: /project_images/fd.png
 
 ---
 
-Real time mask detection ..........soon will be updated .....................................
-...............................................................................
+Mask detection both by batch analysis and real time analysis.Theory and description
+soon will be updated, till then watch the video to understand the technology behind
+facial and feature detection.
+
 
 To check the repo, click [here](https://github.com/AashutoshTrivedi/mask_detectorme)
 ## Part 1

@@ -1,10 +1,9 @@
 ---
 layout: post
-
+title:  Internship at Jugaad Analytics
 permalink: /jugaad/
 ---
 
-# Internship at Jugaad Analytics
 
 
 I created an end to end system for analyzing the data set for Heineken beers. This was implemented using OSEMN(obtain, scrub, explore, model, interpret) structure. The data set was extremely dirty, so first task was to develop a generic class to clean the data set. The constructor for this class takes a table as an input, and takes appropriate decisions and removes the unnecessary information including redundant columns, checks for missing values, and then aggregating the data by dates.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Science of Learning and AI"
+title: "Science behind Learning and Artificial Intelligence"
 
 description: ""
 comments: true
@@ -10,8 +10,9 @@ image: /project_images/ai.png
 
 ---
 
-science of learning and ai ..........soon will be updated .....................................
-...............................................................................
+Watch the video to understand how our brain functions and to ponder upon the ultimate
+question whether AI will help in understanding of our brain and human body better or
+whether our brain and anatomy will help AI to progress more, or is there a trade off on this??
 
 
 

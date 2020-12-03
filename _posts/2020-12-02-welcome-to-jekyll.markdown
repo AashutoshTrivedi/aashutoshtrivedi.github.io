@@ -25,7 +25,8 @@ print_hi('Tom')
 ```
 Liquid template for loop
 
-```ruby
+``` bash
+
 {% for i in (1..5) %}
   {% if i == 4 %}
     {% break %}
@@ -33,6 +34,7 @@ Liquid template for loop
     {{ i }}
   {% endif %}
 {% endfor %}
+
 ```
 
 To find [more](https://shopify.github.io/liquid/tags/iteration/)
