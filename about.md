@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About-me
+ 
 permalink: /about/
 
 ---
 
 <!-- ![alt text](images/author.jpg) -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="container">
+      <img align = "center" src="{{site.baseurl}}/images/author1.jpg" alt="author thumbnail" class="dot">
+    </div>
+  </div>
+</section>
+<br>
+<h2 align = "center" > About-me</h2>
 
 ---
 > ### *“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”*
 > *– Albert Einstein*
+
 
 
 
