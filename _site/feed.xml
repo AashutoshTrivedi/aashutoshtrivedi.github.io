@@ -5,39 +5,9 @@
     <description>A Data Scientist and buisness evangalist</description>
     <link>http://localhost:4000/aashutoshtrivedi.github.io/</link>
     <atom:link href="http://localhost:4000/aashutoshtrivedi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2020 21:58:08 +0530</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 21:58:08 +0530</lastBuildDate>
+    <pubDate>Thu, 03 Dec 2020 09:14:46 +0530</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2020 09:14:46 +0530</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
-    
-      <item>
-        <title>What is Jekyll?</title>
-        <description>&lt;p&gt;Jekyll is a static site generator that used liquid template language to convert markdown and html pages to static sites that are ready to be served.
-Github has build in support for Jekyll and so it can be really useful to generate and deploy static websites on GitHub as git pages.&lt;/p&gt;
-
-&lt;p&gt;One more clarification that I want to make here is that static pages do include any front end technology like JavaScript, react, etc. Only thing is it does not interact with the user and do any dynamic thing which requires sending or receiving data once page is rendered.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def print_hi(name)
-  puts &quot;Hi, #{name}&quot;
-end
-print_hi('Tom')
-#=&amp;gt; prints 'Hi, Tom' to STDOUT.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Understanding Git and Github</title>
@@ -82,12 +52,112 @@ This can be done by&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;GitHub’s official guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <pubDate>Wed, 02 Dec 2020 22:08:20 +0530</pubDate>
         <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</link>
         <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</guid>
         
         
         <category>git</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Jekyll?</title>
+        <description>&lt;p&gt;Jekyll is a static site generator that used liquid template language to convert markdown and html pages to static sites that are ready to be served.
+Github has build in support for Jekyll and so it can be really useful to generate and deploy static websites on GitHub as git pages.&lt;/p&gt;
+
+&lt;p&gt;One more clarification that I want to make here is that static pages do include any front end technology like JavaScript, react, etc. Only thing is it does not interact with the user and do any dynamic thing which requires sending or receiving data once page is rendered.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi('Tom')
+#=&amp;gt; prints 'Hi, Tom' to STDOUT.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Liquid template for loop&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;
+  
+    1
+  
+
+  
+    2
+  
+
+  
+    3
+  
+
+  
+    
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To find &lt;a href=&quot;https://shopify.github.io/liquid/tags/iteration/&quot;&gt;more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Web Deployment</title>
+        <description>&lt;p&gt;Work in progress………………………………………………………
+…………………………………………………………………….&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide1.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide2.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide3.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide4.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide5.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide6.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide7.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide8.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide9.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide10.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide11.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide12.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide13.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide14.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide15.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide16.jpg&quot; /&gt;
+&lt;img src=&quot;/aashutoshtrivedi.github.io/images/w/Slide17.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aashutoshtrivedi.github.io/webdeploy</link>
+        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/webdeploy</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Using Figma to create vector graphics</title>
+        <description>
+&lt;figure class=&quot;post-thumbnail &quot;&gt;
+    
+      &lt;img src=&quot;/aashutoshtrivedi.github.io/images/me.png&quot; alt=&quot;Using Figma to create vector graphics&quot; /&gt;
+    
+  &lt;/figure&gt;
+
+&lt;p&gt;Graphics and visuals is taking on the boom, because it is now equally important for any product in market to give functionality as well as look. And so is the importance of visuals and graphics content design is increasing. A lot of new job opportunities are being created. Now this sparks the curiosity in me as how such beautiful websites and products are created. So using a popular tool &lt;code&gt;figma&lt;/code&gt;, I created a basic svg image.&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&quot;center&quot; src=&quot;/aashutoshtrivedi.github.io/images/me.png&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aashutoshtrivedi.github.io/img/</link>
+        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/img/</guid>
+        
         
       </item>
     
