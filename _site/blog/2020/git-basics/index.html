@@ -83,30 +83,30 @@ Still difficult? Ok lets take an example why git is used and what makes it an in
 
 <p>The first method is by cloning an existing repo on github or any other hosting sote.</p>
 
-<pre><code class="language-bash">  git clone https://examplerepo.org/something.git #creates a empty git repository in your local server
-</code></pre>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  git clone https://examplerepo.org/something.git <span class="c">#creates a empty git repository in your local server</span>
+</code></pre></div></div>
 <p>This will create a copy of a repo on your local pc where you can start changing the files.
 Once we have done necessary changes and our files are ready we can add it back online using following commands.</p>
-<pre><code class="language-bash">  git add . #adds all the files to the local index
-  git commit -m "any comment here"
-  git push origin master # to push the changes to the master branch
-</code></pre>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  git add <span class="nb">.</span> <span class="c">#adds all the files to the local index</span>
+  git commit <span class="nt">-m</span> <span class="s2">"any comment here"</span>
+  git push origin master <span class="c"># to push the changes to the master branch</span>
+</code></pre></div></div>
 <hr />
 <p>The  second method is to intitialize an emtpy git repo and then create a link online to github repo.
 This can be done by</p>
-<pre><code class="language-bash">  git init # create an empty repo
-  git echo "# hello world" &gt; readme.md # create a readme files
-  git add . # adds into local
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  git init <span class="c"># create an empty repo</span>
+  git <span class="nb">echo</span> <span class="s2">"# hello world"</span> <span class="o">&gt;</span> readme.md <span class="c"># create a readme files</span>
+  git add <span class="nb">.</span> <span class="c"># adds into local</span>
   git remote add origin https://examplerepo.org/something.git
-  git push --set-upstream origin master
-</code></pre>
+  git push <span class="nt">--set-upstream</span> origin master
+</code></pre></div></div>
 <p>This will push all the files to the master branch of the repository hosted online.</p>
 
 <p>We can create a branch and push the changes as follows:</p>
-<pre><code class="language-bash">  git checkout -b brache1 # created a branch from master
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  git checkout <span class="nt">-b</span> brache1 <span class="c"># created a branch from master</span>
   git remote add origin https://examplerepo.org/something.git
-  git push --set-upstream origin branch1
-</code></pre>
+  git push <span class="nt">--set-upstream</span> origin branch1
+</code></pre></div></div>
 
 <p>Here are few links to understand this topic in further detail:</p>
 <ul>
