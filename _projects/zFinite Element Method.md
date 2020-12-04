@@ -2,7 +2,7 @@
 layout: post
 title: "Finite Element Method to Solve Convection-Diffusion Equation"
 l: true
-link: "https://github.com/AashutoshTrivedi/Hand-Written-Digit-Recognition-in-Python"
+link: "https://github.com/AashutoshTrivedi/FEM/blob/master/MAL_report.pdf"
 description: "This is the link to my data science blog directory"
 comments: true
 keywords: ""
