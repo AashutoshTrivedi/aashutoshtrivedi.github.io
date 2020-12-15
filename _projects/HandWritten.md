@@ -9,7 +9,8 @@ keywords: ""
 category: computer ds
 image: /project_images/hw.png
 tags:
-- welcome
+- Deep Learning 
+- Data Science
 ---
 
 Hand written Digit Recognition using Neural network in Matlab. Will be updated soon.

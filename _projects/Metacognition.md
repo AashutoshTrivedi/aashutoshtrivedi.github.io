@@ -7,7 +7,9 @@ comments: true
 keywords: ""
 category:
 image: "/project_images/mc.webp"
-
+tags:
+- Product Management
+- AI
 ---
 Read this article on understanding how we can improve our learning
 

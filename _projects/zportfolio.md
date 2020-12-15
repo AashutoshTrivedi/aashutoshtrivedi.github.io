@@ -9,7 +9,7 @@ keywords: ""
 category:
 image: /images/pc.jpg
 tags:
-- welcome
+
 ---
 
 Portfolio created using HTML, Sass, JavaScript and Jekyll.

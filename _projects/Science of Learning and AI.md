@@ -7,7 +7,10 @@ comments: true
 keywords: ""
 category: computer ds
 image: /project_images/ai.png
-
+tags: hy
+tags:
+- Product Management
+- AI
 ---
 
 Watch the video to understand how our brain functions and to ponder upon the ultimate

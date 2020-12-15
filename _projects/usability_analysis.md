@@ -7,7 +7,8 @@ comments: true
 keywords: ""
 category: computer ds
 image: "/project_images/ue.png"
-
+tags:
+- Product Management 
 ---
 
 Read this article on UI and UX comparision between two of the top edtech websites

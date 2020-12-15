@@ -7,7 +7,9 @@ comments: true
 keywords: ""
 category: computer ds
 image: /project_images/fd.png
-
+tags:
+- Deep Learning
+- Data Science
 ---
 
 Mask detection both by batch analysis and real time analysis.Theory and description
