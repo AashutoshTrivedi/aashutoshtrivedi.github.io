@@ -3,10 +3,10 @@
   <channel>
     <title>portfolio</title>
     <description>A Data Scientist and buisness evangalist</description>
-    <link>http://localhost:4000/aashutoshtrivedi.github.io/</link>
-    <atom:link href="http://localhost:4000/aashutoshtrivedi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Apr 2021 16:42:19 +0530</pubDate>
-    <lastBuildDate>Sun, 04 Apr 2021 16:42:19 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Apr 2021 17:09:49 +0530</pubDate>
+    <lastBuildDate>Sun, 04 Apr 2021 17:09:49 +0530</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -53,8 +53,8 @@ This can be done by&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 02 Dec 2020 22:08:20 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/git-basics/</guid>
+        <link>http://localhost:4000/blog/2020/git-basics/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/git-basics/</guid>
         
         
         <category>git</category>
@@ -103,8 +103,8 @@ Github has build in support for Jekyll and so it can be really useful to generat
 
 </description>
         <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/blog/2020/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/blog/2020/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -154,8 +154,8 @@ and policies behind ip address and it’s assignment works? If yes! then dive ri
 
 </description>
         <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/webdeploy</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/webdeploy</guid>
+        <link>http://localhost:4000/webdeploy</link>
+        <guid isPermaLink="true">http://localhost:4000/webdeploy</guid>
         
         
       </item>
@@ -165,17 +165,17 @@ and policies behind ip address and it’s assignment works? If yes! then dive ri
         <description>
 &lt;figure class=&quot;post-thumbnail &quot;&gt;
     
-      &lt;img src=&quot;/aashutoshtrivedi.github.io/images/me.png&quot; alt=&quot;Using Figma to create vector graphics&quot; /&gt;
+      &lt;img src=&quot;/images/me.png&quot; alt=&quot;Using Figma to create vector graphics&quot; /&gt;
     
   &lt;/figure&gt;
 
 &lt;p&gt;Graphics and visuals is taking on the boom, because it is now equally important for any product in market to give functionality as well as look. And so is the importance of visuals and graphics content design is increasing. A lot of new job opportunities are being created. Now this sparks the curiosity in me as how such beautiful websites and products are created. So using a popular tool &lt;code class=&quot;highlighter-rouge&quot;&gt;figma&lt;/code&gt;, I created a basic svg image.&lt;/p&gt;
 
-&lt;p&gt;&lt;img align=&quot;center&quot; src=&quot;/aashutoshtrivedi.github.io/images/me.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img align=&quot;center&quot; src=&quot;/images/me.png&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Dec 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/aashutoshtrivedi.github.io/img/</link>
-        <guid isPermaLink="true">http://localhost:4000/aashutoshtrivedi.github.io/img/</guid>
+        <link>http://localhost:4000/img/</link>
+        <guid isPermaLink="true">http://localhost:4000/img/</guid>
         
         
       </item>
