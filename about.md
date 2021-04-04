@@ -1,6 +1,6 @@
 ---
 layout: page
- 
+
 permalink: /about/
 
 ---
@@ -23,7 +23,7 @@ permalink: /about/
 
 
 
-Hello I'm `Aashutosh Trivedi`, an associate software developer at Cognizant and a data science and machine learning enthusiast. Prior to Cognizant, completed graduation from IIT Jammu and developed exceptional skills while serving as General Secretary, Student's Council IIT Jammu
+Hello I'm `Aashutosh Trivedi`, an incoming associate software developer at Cognizant and a data science and machine learning enthusiast. Prior to Cognizant, completed graduation from IIT Jammu and developed exceptional skills while serving as General Secretary, Student's Council IIT Jammu
 If I describe myself in one line - that would be - always eager to learn. I have always introduced myself as a lover of technology, a technophile, a presenter, a leader and an achiever.
 
 As a graduate in mechanical engineering from [IIT Jammu](iitjammu.ac.in), I was always inspired to grab each and every possible opportunity thrown at me by life. Had an opportunity to work with an amazing team to create a first all terrain vehicle, been fortunate enough to lead a team to draft first constitution of IIT jammu and likewise a lot more. The many hats worn by me from being a mechanical engineer by degree to software engineer and machine learning enthusiast continue to inspire and feed my curiosity.
