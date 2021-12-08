@@ -53,8 +53,7 @@ navbar:
     title: About
   - slug: projects
     title: Projects
-  - slug: blog
-    title: Blog
+
 
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
