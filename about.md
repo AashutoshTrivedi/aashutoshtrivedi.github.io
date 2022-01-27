@@ -1,8 +1,5 @@
 ---
 layout: page
-
-permalink: /about/
-
 ---
 
 <!-- ![alt text](images/author.jpg) -->
@@ -23,7 +20,7 @@ permalink: /about/
 
 
 
-Hello I'm `Aashutosh Trivedi`, an incoming associate software developer at Cognizant and a data science and machine learning enthusiast who is looking to develop relevant skills to crack into Product Management. Prior to Cognizant, completed graduation from IIT Jammu and developed exceptional skills while serving as General Secretary, Student's Council IIT Jammu
+Hello I'm `Aashutosh Trivedi`, a senior Software Engineer at Cognizant and a data science and machine learning enthusiast who is looking to develop relevant skills to crack into Product Management. Prior to Cognizant, completed graduation from IIT Jammu and developed exceptional skills while serving as General Secretary, Student's Council IIT Jammu
 If I describe myself in one line - that would be - always eager to learn. I have always introduced myself as a lover of technology, a technophile, a presenter, a leader and an achiever.
 
 As a graduate in mechanical engineering from [IIT Jammu](iitjammu.ac.in), I was always inspired to grab each and every possible opportunity thrown at me by life. Had an opportunity to work with an amazing team to create a first all terrain vehicle, been fortunate enough to lead a team to draft first constitution of IIT jammu and likewise a lot more. The many hats worn by me from being a mechanical engineer by degree to software engineer and machine learning enthusiast continue to inspire and feed my curiosity.
@@ -38,8 +35,8 @@ I had been the general secretary of students body, and been an integral part of 
 
 Apart from it I'm deeply passionate about the new technology and its impact on transforming the society. I have a my interests in the field of machine learning, data analytics and cloud based computing.
 
-Coming on the internships, I interned with Jugaad Analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data Analytics and Stock market prediction. You can read more about it [here](/aashutoshtrivedi.github.io/jugaad/).
+Coming on the internships, I interned with Jugaad Analytics which is an analytical firm located in Amsterdam which works in the field of predictive maintenance , big data Analytics and Stock market prediction. You can read more about it [here](/jugaad/index.html).
 
 
 Rest of the internships were in mechanical domain, so I'll skip those. I will write about them sometime later in a blog post, as it was something very technical and interesting.
-[Click to know more](/aashutoshtrivedi.github.io/extra/)
+[Click to know more](/extra/)
